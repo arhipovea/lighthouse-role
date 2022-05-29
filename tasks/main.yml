@@ -1,7 +1,7 @@
 ---
 - name: Lighthouse | Install git
   become: true
-  ansible.builtin.yum:
+  ansible.builtin.package:
     name:
       - git
     state: present
