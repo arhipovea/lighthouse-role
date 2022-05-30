@@ -6,6 +6,11 @@ Lighthouse Role
 Requirements
 ------------
 
+ОС:
+- Ubuntu
+- Centos
+
+App:
 - Git
 
 Role Variables
